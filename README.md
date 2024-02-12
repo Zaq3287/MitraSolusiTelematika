@@ -11,7 +11,7 @@ git clone "https://github.com/Zaq3287/MitraSolusiTelematika"
 - For web api testing, you can use Swagger.
 ![image](https://github.com/Zaq3287/MitraSolusiTelematika/assets/98646806/0828786a-422f-4bdc-be45-ed534971afd3)
 
-- If you want to check manually, you can use the following url:
+- If you want to check manually, you can use the following url:\
   GET -> displays all data contained in the list\
   http://localhost:{port}/api/players\
   GET -> displays data based on Id\
